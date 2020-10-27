@@ -1,0 +1,40 @@
+body {
+text-align: center;
+font-family: "Gill Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+  color: #342DE9;
+}
+
+.ACace {
+  margin-left: 30%;
+}
+
+.aceFav {
+  margin-left: 20px;
+}
+
+.mk2 {
+margin-left: 10%;
+}
+
+.mkIII {
+  margin-left: 22%;
+}
+
+.lastSelector {
+  margin-left: 130px;
+}
+
+.logo {
+  margin-top: 69px;
+  margin-bottom: 69px;
+}
+
+footer {
+  font-size: .75rem;
+  color: #342DE9;
+  margin-top: 69px;
+}
